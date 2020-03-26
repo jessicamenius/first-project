@@ -18,7 +18,8 @@ body {
 
 .nav-items li {
     list-style: none;
-    display: inline; 
+    display: inline;
+    margin-right: 20px;
 }
 
 .nav-items li a {
