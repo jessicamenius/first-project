@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #34495e;
-    height: 10vh;
+    height: 8vh;
 }
 
 .nav h1 {
@@ -18,15 +18,12 @@ body {
 
 .nav-items li {
     list-style: none;
-    display: inline;
-    margin-right: 20px;
-    align-self: center;
+    display: inline; 
 }
 
 .nav-items li a {
     color: whitesmoke;
     text-decoration: none;
-    display: inline;
 }
 
 .nav-items li:not(:last-child){
