@@ -20,6 +20,7 @@ body {
     list-style: none;
     display: inline;
     margin-right: 20px;
+    align-self: center;
 }
 
 .nav-items li a {
