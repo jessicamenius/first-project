@@ -12,8 +12,14 @@ body {
 
 .nav h1 {
     color: whitesmoke;
+    margin: 0;
     margin-left: 20px;
     align-self: center;
+}
+
+.nav-items {
+    align-self: center;
+    margin-right: 20px;
 }
 
 .nav-items li {
