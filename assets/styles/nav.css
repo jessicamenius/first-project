@@ -23,14 +23,13 @@ body {
 }
 
 .nav-items li {
-    list-style: none;
+    listy-style: none;
     display: inline;
-    margin-right: 20px;
 }
 
 .nav-items li a {
-    color: whitesmoke;
     text-decoration: none;
+    color: whitesmoke;
 }
 
 .nav-items li:not(:last-child){
